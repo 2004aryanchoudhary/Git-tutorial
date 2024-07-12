@@ -1,6 +1,5 @@
 *.log
-dir/
-static/dir
+
 123.txt
 
 
